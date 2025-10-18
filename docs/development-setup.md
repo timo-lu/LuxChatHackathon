@@ -1,13 +1,5 @@
 # Development Setup
 
-Setup guide for the development environment.
-
-## Prerequisites
-
-- Git
-- Node.js or Python (depending on stack)
-- Docker (for local Matrix homeserver)
-
 ## Local Matrix Homeserver
 
 ### Using Synapse with Docker
@@ -27,7 +19,7 @@ docker exec -it synapse register_new_matrix_user \
 
 ## Project Setup
 
-Add your project setup instructions here.
+[TODO]
 
 ## Resources
 
