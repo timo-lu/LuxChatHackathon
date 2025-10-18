@@ -10,6 +10,7 @@ All documentation is organized in the `docs/` directory. Start with the **[Docum
 
 ### Quick Links
 
+- **[⚡ Quick Reference](./docs/QUICK-REFERENCE.md)** - Essential commands and code snippets
 - **[Getting Started](./docs/getting-started.md)** - New to LuxChat or Matrix? Start here!
 - **[Matrix Protocol](./docs/matrix-protocol.md)** - Understanding the Matrix protocol
 - **[LuxChat Architecture](./docs/luxchat-architecture.md)** - System design and components
@@ -84,6 +85,8 @@ This is a collaborative resource! Everyone is welcome to:
 - Share useful links and resources
 - Create diagrams and visualizations
 - Fix errors or clarify confusing sections
+
+See **[CONTRIBUTING.md](./CONTRIBUTING.md)** for detailed guidelines on how to contribute.
 
 Simply edit the relevant files and commit your changes.
 
