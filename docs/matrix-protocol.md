@@ -21,4 +21,3 @@ Overview of the Matrix protocol.
 Client → Homeserver → Federation → Other Homeservers
 ```
 
-Add your notes and findings here.
