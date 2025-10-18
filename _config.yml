@@ -7,7 +7,7 @@ baseurl: "/LuxChatHackathon" # the subpath of your site, e.g. /blog
 url: "https://timo-lu.github.io" # the base hostname & protocol for your site
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minima
 markdown: kramdown
 
 # Collections
