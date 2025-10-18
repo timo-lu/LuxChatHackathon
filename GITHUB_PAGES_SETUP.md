@@ -116,7 +116,8 @@ To test the site locally before deploying:
    bundle exec jekyll serve
    ```
 
-5. Visit `http://localhost:4000/LuxChatHackathon/docs/` in your browser
+5. Visit `http://localhost:4000/LuxChatHackathon/` in your browser
+   - Main documentation: `http://localhost:4000/LuxChatHackathon/docs/`
 
 ## Troubleshooting
 
