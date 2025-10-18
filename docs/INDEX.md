@@ -6,6 +6,7 @@ Welcome to the LuxChat Hackathon documentation hub! This repository contains all
 
 ### Quick Access
 - [Quick Reference Guide](./QUICK-REFERENCE.md) - ⚡ Essential commands and code snippets for rapid development
+- [Cheat Sheet](./CHEAT-SHEET.md) - 📄 Printable one-page reference
 
 ### Getting Started
 - [Getting Started Guide](./getting-started.md) - Start here if you're new to LuxChat or Matrix protocol
