@@ -7,6 +7,8 @@ https://luxembourg-internet-days.com/hackathon/
 - Pitch your idea at 1.30 pm on November 19 (in English)
 - Awards Ceremony at 4.00 pm on November 19
 - 1st: 3500€, 2nd: 2000€, 3rd: Raspberry Pi
+
+
 ## Quick Overview
 
 Luxchat is based on the matrix spec, implemented using a fork based on element.io.
