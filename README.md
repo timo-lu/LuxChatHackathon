@@ -6,8 +6,8 @@ https://luxembourg-internet-days.com/hackathon/
 - Starts at 8.15 am on November 18
 - Pitch your idea at 1.30 pm on November 19 (in English)
 - Awards Ceremony at 4.00 pm on November 19
-- 1st: 3500€, 2nd: 2000€, 3rd: Raspberry Pi
-
+- **1st: 3500€, 2nd: 2000€, 3rd: Raspberry Pi**
+_________________________________________________________
 
 ## Quick Overview
 
