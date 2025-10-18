@@ -22,7 +22,6 @@ include:
 
 # Exclude files from processing
 exclude:
-  - README.md
   - .gitignore
   - .git
   - node_modules
