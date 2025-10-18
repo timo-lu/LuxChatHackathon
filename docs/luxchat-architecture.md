@@ -31,13 +31,14 @@ Luxchat will provide the foundations for the development of new innovative servi
 <img width="1920" height="860" alt="image" src="https://github.com/user-attachments/assets/a390bba0-22d7-4107-a301-f43b68acc91e" />
 
 
+## Source
+
 The Luxchat Web Client and the iOS/Android apps seem to be based on older versions (classic? even older?) of [element.io](https://element.io/app).
 
 [This Copyright page](https://www.luxchat.lu/app-copyright/) provides links to repos for the clients, but they only redirect to a release download page.
 
 (Timo: I wrote them an email asking to fix this)
 
-## Source
 
 ### Clients
 
