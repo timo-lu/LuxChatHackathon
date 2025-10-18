@@ -1,4 +1,4 @@
-# GitHub Pages configuration for LuxChat Hackathon Documentation
+# GitHub Pages configuration for LuxChat Hackathon
 
 # Site settings
 title: LuxChat Hackathon
@@ -26,3 +26,10 @@ exclude:
   - .git
   - node_modules
   - vendor
+
+# Defaults - Add meta tags to prevent search engine indexing
+defaults:
+  - scope:
+      path: ""
+    values:
+      robots: "noindex, nofollow"
