@@ -1,0 +1,29 @@
+# GitHub Pages configuration for LuxChat Hackathon Documentation
+
+# Site settings
+title: LuxChat Hackathon
+description: Documentation hub for the LuxChat Hackathon
+baseurl: "/LuxChatHackathon" # the subpath of your site, e.g. /blog
+url: "https://timo-lu.github.io" # the base hostname & protocol for your site
+
+# Build settings
+theme: jekyll-theme-cayman
+markdown: kramdown
+
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
+
+# Include files
+include:
+  - docs
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - .gitignore
+  - .git
+  - node_modules
+  - vendor

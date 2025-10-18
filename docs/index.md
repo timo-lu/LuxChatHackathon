@@ -1,3 +1,8 @@
+---
+layout: default
+title: Documentation
+---
+
 # LuxChat Hackathon - Documentation
 
 Documentation hub for the LuxChat hackathon.

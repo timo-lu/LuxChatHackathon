@@ -1,3 +1,8 @@
+---
+layout: default
+title: Diagrams
+---
+
 # Diagrams
 
 Add diagrams here.

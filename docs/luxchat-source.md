@@ -1,3 +1,8 @@
+---
+layout: default
+title: LuxChat Source Code
+---
+
 # LuxChat Source Code
 
 The Luxchat Web Client and the iOS/Android apps seem to be based on older versions (classic? even older?) of [element.io](https://element.io/app).

@@ -1,3 +1,8 @@
+---
+layout: default
+title: API References
+---
+
 # API References
 
 ## Resources

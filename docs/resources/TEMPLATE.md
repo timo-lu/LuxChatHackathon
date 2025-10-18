@@ -1,3 +1,8 @@
+---
+layout: default
+title: Document Title
+---
+
 # Document Title
 
 Brief description.

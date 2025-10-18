@@ -1,3 +1,8 @@
+---
+layout: default
+title: Tools & Utilities
+---
+
 # Tools & Utilities
 
 Development tools and utilities.
