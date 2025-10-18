@@ -1,3 +1,8 @@
+---
+layout: default
+title: External Resources
+---
+
 # External Resources
 
 Collection of external links and resources.

@@ -40,16 +40,18 @@ Luxchat will provide the foundations for the development of new innovative servi
 
 ## Documentation
 
-See [docs/INDEX.md](./docs/INDEX.md) for the documentation hub.
+See [docs/index.md](./docs/index.md) for the documentation hub.
+
+**GitHub Pages**: The documentation is also available at https://timo-lu.github.io/LuxChatHackathon/docs/
 
 ## Structure
 
 ```
 docs/
-├── INDEX.md                       # Documentation hub
-├── matrix-protocol.md             # Matrix protocol overview
-├── luxchat-source.md              # Source Code
-├── development-setup.md           # Development setup
-├── api-references.md              # API references
-└── tools-and-utilities.md         # Tools and utilities
+├── index.md                        # Documentation hub
+├── matrix-protocol.md              # Matrix protocol overview
+├── luxchat-source.md               # Source Code
+├── development-setup.md            # Development setup
+├── api-references.md               # API references
+└── tools-and-utilities.md          # Tools and utilities
 ```

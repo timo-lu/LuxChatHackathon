@@ -1,3 +1,8 @@
+---
+layout: default
+title: Matrix Protocol
+---
+
 # Matrix Protocol
 
 Overview of the Matrix protocol.

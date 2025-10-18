@@ -1,3 +1,8 @@
+---
+layout: default
+title: Development Setup
+---
+
 # Development Setup
 
 ## Local Matrix Homeserver
