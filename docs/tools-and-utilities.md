@@ -11,9 +11,3 @@ Development tools and utilities.
 ## Homeservers
 
 - [Synapse](https://github.com/matrix-org/synapse) - Reference implementation (Python)
-- [Dendrite](https://github.com/matrix-org/dendrite) - Next-gen homeserver (Go)
-
-## Clients
-
-- [Element](https://element.io/) - Official Matrix client
-
