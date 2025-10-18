@@ -5,7 +5,7 @@ Documentation hub for the LuxChat hackathon.
 ## Documentation
 
 - [Matrix Protocol](./matrix-protocol.md) - Matrix protocol overview
-- [LuxChat Architecture](./luxchat-architecture.md) - System architecture
+- [LuxChat Architecture](./luxchat-source.md) - System architecture
 - [Development Setup](./development-setup.md) - Setup guide
 - [API References](./api-references.md) - API documentation
 - [Tools & Utilities](./tools-and-utilities.md) - Development tools
