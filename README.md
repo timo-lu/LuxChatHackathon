@@ -7,7 +7,17 @@ https://luxembourg-internet-days.com/hackathon/
 - Pitch your idea at 1.30 pm on November 19 (in English)
 - Awards Ceremony at 4.00 pm on November 19
 - **1st: 3500€, 2nd: 2000€, 3rd: Raspberry Pi**
-_________________________________________________________
+
+ 
+## Documentation
+
+- [Matrix Protocol](./matrix-protocol.md) - Matrix protocol overview
+- [LuxChat Source](./luxchat-source.md) - System architecture
+- [Development Setup](./development-setup.md) - Setup guide
+- [API References](./api-references.md) - API documentation
+- [Tools & Utilities](./tools-and-utilities.md) - Development tools
+- [External Resources](./resources/external-links.md) - External links
+
 
 ## Quick Overview
 
