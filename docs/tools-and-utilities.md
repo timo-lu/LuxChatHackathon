@@ -16,12 +16,4 @@ Development tools and utilities.
 ## Clients
 
 - [Element](https://element.io/) - Official Matrix client
-- [Try Matrix Now](https://app.element.io/) - Web client
 
-## Development Tools
-
-- Docker
-- VS Code or your preferred IDE
-- Postman or curl for API testing
-
-Add your preferred tools here.
