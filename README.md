@@ -1,6 +1,6 @@
 # LuxChat Hackathon Research
 
-https://luxembourg-internet-days.com/hackathon/
+[https://luxembourg-internet-days.com/hackathon/](https://luxembourg-internet-days.com/hackathon/)
 - November 18 & 19, 2025*
 - Chamber of Commerce of Luxembourg - Room F01
 - Starts at 8.15 am on November 18
