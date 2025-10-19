@@ -19,9 +19,12 @@ Found this on the CIRCL Forgejo:
 
 If the above is correct then the clients are probably based on element classic. (the latest clients are called element x)
 
-- [Android](https://github.com/element-hq/element-ios)
-- [iOS](https://github.com/element-hq/element-android)
-- [Web](https://github.com/element-hq/element-web): https://webclient.luxchat.lu Looks almost exactly like the default web client 
+- [Android](https://github.com/element-hq/element-ios) -> [changelog until 2024-10-16](https://helga.circl.lu/luxchat-agpl-source/luxchat-ios/src/branch/master/element-ios/ChangelogLuxchat.md) - [more changelog](https://helga.circl.lu/luxchat-agpl-source/luxchat-ios/src/branch/master/element-ios/CHANGES.md)
+- [iOS](https://github.com/element-hq/element-android) -> [changelog until 2024-10-16](https://helga.circl.lu/luxchat-agpl-source/luxchat-android/src/branch/master/element-android/ChangelogLuxchat.md) - [more changelog](https://helga.circl.lu/luxchat-agpl-source/luxchat-android/src/branch/master/element-android/CHANGES.md)
+- [Web](https://github.com/element-hq/element-web) -> [changelog until 2024-10-16](https://helga.circl.lu/luxchat-agpl-source/luxchat-web/src/branch/master/element-web/ChangelogLuxchat.md) - [more changelog](https://helga.circl.lu/luxchat-agpl-source/luxchat-web/src/branch/master/element-web/CHANGELOG.md)
+
+
+
 
 ## Servers
 
