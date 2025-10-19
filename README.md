@@ -8,7 +8,14 @@
 - Awards Ceremony at 4.00 pm on November 19
 - **1st: 3500€, 2nd: 2000€, 3rd: Raspberry Pi**
 
- 
+## Test Server
+
+
+| **Server** | [42will.win](https://42will.win)  | Synapse 1.120.2 |
+|---| ---| --- |
+| **Web Client** | [**chat.42will.win**](https://chat.42will.win) | **Element version: 1.12.1** |
+
+
 ## Documentation
 
 See [docs/index.md](./docs/index.md) for the documentation hub.
