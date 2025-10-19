@@ -11,12 +11,14 @@ https://luxembourg-internet-days.com/hackathon/
  
 ## Documentation
 
-- [Matrix Protocol](./matrix-protocol.md) - Matrix protocol overview
-- [LuxChat Source](./luxchat-source.md) - System architecture
-- [Development Setup](./development-setup.md) - Setup guide
-- [API References](./api-references.md) - API documentation
-- [Tools & Utilities](./tools-and-utilities.md) - Development tools
-- [External Resources](./resources/external-links.md) - External links
+See [docs/index.md](./docs/index.md) for the documentation hub.
+
+- [Matrix Protocol](./docs/matrix-protocol.md) - Matrix protocol overview
+- [LuxChat Source](./docs/luxchat-source.md) - Client and Server Source
+- [Development Setup](./docs/development-setup.md) - Setup guide
+- [API References](./docs/api-references.md) - API documentation
+- [Tools & Utilities](./docs/tools-and-utilities.md) - Development tools
+- [External Resources](./docs/resources/external-links.md) - External links
 
 
 ## Quick Overview
@@ -50,20 +52,5 @@ Luxchat will provide the foundations for the development of new innovative servi
 <img width="1920" height="860" alt="image" src="https://github.com/user-attachments/assets/a390bba0-22d7-4107-a301-f43b68acc91e" />
 
 
-## Documentation
 
-See [docs/index.md](./docs/index.md) for the documentation hub.
 
-**GitHub Pages**: The documentation is also available at https://timo-lu.github.io/LuxChatHackathon/docs/
-
-## Structure
-
-```
-docs/
-├── index.md                        # Documentation hub
-├── matrix-protocol.md              # Matrix protocol overview
-├── luxchat-source.md               # Source Code
-├── development-setup.md            # Development setup
-├── api-references.md               # API references
-└── tools-and-utilities.md          # Tools and utilities
-```
