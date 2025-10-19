@@ -25,7 +25,9 @@ If the above is correct then the clients are probably based on element classic. 
 
 ## Servers
 
-They probably run some version of [synapse](https://github.com/element-hq/synapse) to host the servers.
+<img width="745" height="121" alt="image" src="https://github.com/user-attachments/assets/034dad28-c27c-4f40-99b0-6883cbe11f47" />
+
+Look like they are running [release 1.120.2](https://github.com/element-hq/synapse/releases/tag/v1.120.2) of synapse.
 
 Mostly written in python, which probably explains why they mention python in the hackathon announcement.
 
