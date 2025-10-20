@@ -16,6 +16,9 @@
 | **Web Client** | [**chat.42will.win**](https://chat.42will.win) | **Element version: 1.12.1** |
 
 
+# [**TODO LIST**](./docs/todo.md) 
+
+
 ## Documentation
 
 See [docs/index.md](./docs/index.md) for the documentation hub.
