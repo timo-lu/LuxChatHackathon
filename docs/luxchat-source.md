@@ -33,6 +33,10 @@ If the above is correct then the clients are probably based on element classic. 
 
 Look like they are (mostly) running [release 1.120.2](https://github.com/element-hq/synapse/releases/tag/v1.120.2) of synapse.
 
+https://01.lu-cix.luxchat.lu/_matrix/client/versions
+
+Implemented up to [SPEC v1.11](https://spec.matrix.org/v1.11/) 
+
 Mostly written in python, which probably explains why they mention python in the hackathon announcement.
 
 ## Bots / Integrations
