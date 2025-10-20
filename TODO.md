@@ -1,5 +1,5 @@
 # TODO
-- [x] Get everyone signed up wow good job guys! :heavy_check_mark:
+- [x] Get everyone signed up wow good job guys! 
 
 - [ ] Get up to date source code
   - [x] Write them an email
